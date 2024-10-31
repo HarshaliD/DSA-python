@@ -1,0 +1,9 @@
+Python does not strictly use "pass by value" or "pass by reference" in the same way as languages like C++ or Java. 
+Instead, Python employs a mechanism known as pass by object reference (or pass by assignment). 
+This means that when you pass an object to a function, you're passing a reference to that object, but the reference itself is passed by value.
+
+Summary
+1)Pass by Object Reference: Python passes a reference to the object, but whether that object can be modified depends on its mutability.
+2)Immutability: If you try to change an immutable object, you create a new object instead of modifying the original.
+3)Mutability: If you change a mutable object, the changes affect the original object.
+Thus, while Python does not have traditional "pass by value" or "pass by reference," it effectively combines elements of both depending on the type of object being passed.

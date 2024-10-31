@@ -45,3 +45,9 @@ class AutoCompleteSystem:
                     break
         
         return output
+
+
+#for c++ -> sort function
+''' sort(sentence_time.begin(), sentence_time.end(), [](const pair<string, int>& a, const pair<string, int>& b) {
+        return (a.second < b.second) || (a.second == b.second && a.first < b.first);
+    }); '''

@@ -1,5 +1,5 @@
 # DSA-python
-After practicing DSA in C++ ,now I 'm practicing it in Python using Striver Sheet
+After practicing DSA in C++ ,now I 'm practicing it in Python using Striver Sheet and Neetcode.io
 
 Link for my practice in C++ ->  
 https://github.com/HarshaliD/DSA-Batch-1-Course-2024
